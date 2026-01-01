@@ -1,0 +1,3 @@
+print("This is my first GitHub-linked project!")
+data = [10, 20, 30, 40, 50]
+print(f"Average: {sum(data)/len(data)}")
